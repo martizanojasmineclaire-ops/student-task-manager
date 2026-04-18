@@ -1,4 +1,4 @@
-# student-task-manager
+## Student Task Manager
 A simple productivity web app for students to manage tasks, deadlines, and priorities.
 
 Features (Planned)
@@ -13,5 +13,5 @@ Tech Stack
 * CSS
 * JavaScript
   
-Status
+Status 
 In development
